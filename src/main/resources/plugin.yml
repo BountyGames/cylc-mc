@@ -1,0 +1,6 @@
+name: CYLC
+version: '${project.version}'
+main: fr.bountygames.cylc.Main
+api-version: 1.19
+authors: [ BountyGames ]
+website: cylc.fr
